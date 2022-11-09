@@ -3,5 +3,6 @@
 body{
     background-color: rgb(180, 246, 224);
     font-weight: bold;
-    color:rgb(201, 203, 205)
+    color:rgb(201, 203, 205);
+    font-size:18px;    
 }
